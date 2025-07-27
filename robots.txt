@@ -20,4 +20,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://bioplspro.vercel.app/sitemap.xml
+Sitemap: https://yusleep.vercel.app/sitemap.xml
